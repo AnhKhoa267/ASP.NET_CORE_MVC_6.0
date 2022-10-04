@@ -1,0 +1,12 @@
+D:\HK1_Nam3\Cong-nghe-Net\ShoppingCart\ShoppingCart.Utility\bin\Debug\net6.0\ShoppingCart.Utility.deps.json
+D:\HK1_Nam3\Cong-nghe-Net\ShoppingCart\ShoppingCart.Utility\bin\Debug\net6.0\ShoppingCart.Utility.dll
+D:\HK1_Nam3\Cong-nghe-Net\ShoppingCart\ShoppingCart.Utility\bin\Debug\net6.0\ShoppingCart.Utility.pdb
+D:\HK1_Nam3\Cong-nghe-Net\ShoppingCart\ShoppingCart.Utility\obj\Debug\net6.0\ShoppingCart.Utility.csproj.AssemblyReference.cache
+D:\HK1_Nam3\Cong-nghe-Net\ShoppingCart\ShoppingCart.Utility\obj\Debug\net6.0\ShoppingCart.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\HK1_Nam3\Cong-nghe-Net\ShoppingCart\ShoppingCart.Utility\obj\Debug\net6.0\ShoppingCart.Utility.AssemblyInfoInputs.cache
+D:\HK1_Nam3\Cong-nghe-Net\ShoppingCart\ShoppingCart.Utility\obj\Debug\net6.0\ShoppingCart.Utility.AssemblyInfo.cs
+D:\HK1_Nam3\Cong-nghe-Net\ShoppingCart\ShoppingCart.Utility\obj\Debug\net6.0\ShoppingCart.Utility.csproj.CoreCompileInputs.cache
+D:\HK1_Nam3\Cong-nghe-Net\ShoppingCart\ShoppingCart.Utility\obj\Debug\net6.0\ShoppingCart.Utility.dll
+D:\HK1_Nam3\Cong-nghe-Net\ShoppingCart\ShoppingCart.Utility\obj\Debug\net6.0\refint\ShoppingCart.Utility.dll
+D:\HK1_Nam3\Cong-nghe-Net\ShoppingCart\ShoppingCart.Utility\obj\Debug\net6.0\ShoppingCart.Utility.pdb
+D:\HK1_Nam3\Cong-nghe-Net\ShoppingCart\ShoppingCart.Utility\obj\Debug\net6.0\ref\ShoppingCart.Utility.dll
