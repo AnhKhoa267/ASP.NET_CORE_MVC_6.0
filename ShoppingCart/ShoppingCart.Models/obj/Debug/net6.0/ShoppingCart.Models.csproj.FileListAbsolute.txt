@@ -22,3 +22,15 @@ D:\HK1_Nam3\Cong_nghe_Net\ShoppingCart\ShoppingCart.Models\obj\Debug\net6.0\Shop
 D:\HK1_Nam3\Cong_nghe_Net\ShoppingCart\ShoppingCart.Models\obj\Debug\net6.0\refint\ShoppingCart.Models.dll
 D:\HK1_Nam3\Cong_nghe_Net\ShoppingCart\ShoppingCart.Models\obj\Debug\net6.0\ShoppingCart.Models.pdb
 D:\HK1_Nam3\Cong_nghe_Net\ShoppingCart\ShoppingCart.Models\obj\Debug\net6.0\ref\ShoppingCart.Models.dll
+D:\HK1_Nam3\Cong_nghe_Net\ASP.NET_CORE_MVC_6.0\ShoppingCart\ShoppingCart.Models\bin\Debug\net6.0\ShoppingCart.Models.deps.json
+D:\HK1_Nam3\Cong_nghe_Net\ASP.NET_CORE_MVC_6.0\ShoppingCart\ShoppingCart.Models\bin\Debug\net6.0\ShoppingCart.Models.dll
+D:\HK1_Nam3\Cong_nghe_Net\ASP.NET_CORE_MVC_6.0\ShoppingCart\ShoppingCart.Models\bin\Debug\net6.0\ShoppingCart.Models.pdb
+D:\HK1_Nam3\Cong_nghe_Net\ASP.NET_CORE_MVC_6.0\ShoppingCart\ShoppingCart.Models\obj\Debug\net6.0\ShoppingCart.Models.csproj.AssemblyReference.cache
+D:\HK1_Nam3\Cong_nghe_Net\ASP.NET_CORE_MVC_6.0\ShoppingCart\ShoppingCart.Models\obj\Debug\net6.0\ShoppingCart.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\HK1_Nam3\Cong_nghe_Net\ASP.NET_CORE_MVC_6.0\ShoppingCart\ShoppingCart.Models\obj\Debug\net6.0\ShoppingCart.Models.AssemblyInfoInputs.cache
+D:\HK1_Nam3\Cong_nghe_Net\ASP.NET_CORE_MVC_6.0\ShoppingCart\ShoppingCart.Models\obj\Debug\net6.0\ShoppingCart.Models.AssemblyInfo.cs
+D:\HK1_Nam3\Cong_nghe_Net\ASP.NET_CORE_MVC_6.0\ShoppingCart\ShoppingCart.Models\obj\Debug\net6.0\ShoppingCart.Models.csproj.CoreCompileInputs.cache
+D:\HK1_Nam3\Cong_nghe_Net\ASP.NET_CORE_MVC_6.0\ShoppingCart\ShoppingCart.Models\obj\Debug\net6.0\ShoppingCart.Models.dll
+D:\HK1_Nam3\Cong_nghe_Net\ASP.NET_CORE_MVC_6.0\ShoppingCart\ShoppingCart.Models\obj\Debug\net6.0\refint\ShoppingCart.Models.dll
+D:\HK1_Nam3\Cong_nghe_Net\ASP.NET_CORE_MVC_6.0\ShoppingCart\ShoppingCart.Models\obj\Debug\net6.0\ShoppingCart.Models.pdb
+D:\HK1_Nam3\Cong_nghe_Net\ASP.NET_CORE_MVC_6.0\ShoppingCart\ShoppingCart.Models\obj\Debug\net6.0\ref\ShoppingCart.Models.dll

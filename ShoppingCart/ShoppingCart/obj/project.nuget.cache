@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VBTkHqXp/3yYHhRWMKEIuygOppRl4ZiMhGUNQUXnpcMPWlAF7kXtZ+dksNxZ5fU4tCwLYGRzgK+RHBanC01opA==",
+  "dgSpecHash": "NoVsoAVvKg4KKiX0k8WBIJ7p0yhkOct/m8g9weu/yFBYkWnUrMoc9qpAkhyEqMARdcJYyiLVcn/Qi+5zgwOeQw==",
   "success": true,
-  "projectFilePath": "D:\\HK1_Nam3\\Cong_nghe_Net\\ShoppingCart\\ShoppingCart\\ShoppingCart.csproj",
+  "projectFilePath": "D:\\HK1_Nam3\\Cong_nghe_Net\\ASP.NET_CORE_MVC_6.0\\ShoppingCart\\ShoppingCart\\ShoppingCart.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

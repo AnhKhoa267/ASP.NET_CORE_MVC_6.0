@@ -10889,11 +10889,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\HK1_Nam3\\Cong_nghe_Net\\ShoppingCart\\ShoppingCart\\ShoppingCart.csproj",
+      "projectUniqueName": "D:\\HK1_Nam3\\Cong_nghe_Net\\ASP.NET_CORE_MVC_6.0\\ShoppingCart\\ShoppingCart\\ShoppingCart.csproj",
       "projectName": "ShoppingCart",
-      "projectPath": "D:\\HK1_Nam3\\Cong_nghe_Net\\ShoppingCart\\ShoppingCart\\ShoppingCart.csproj",
+      "projectPath": "D:\\HK1_Nam3\\Cong_nghe_Net\\ASP.NET_CORE_MVC_6.0\\ShoppingCart\\ShoppingCart\\ShoppingCart.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\HK1_Nam3\\Cong_nghe_Net\\ShoppingCart\\ShoppingCart\\obj\\",
+      "outputPath": "D:\\HK1_Nam3\\Cong_nghe_Net\\ASP.NET_CORE_MVC_6.0\\ShoppingCart\\ShoppingCart\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10910,8 +10910,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\HK1_Nam3\\Cong_nghe_Net\\ShoppingCart\\ShoppingCart.DataAccess\\ShoppingCart.DataAccess.csproj": {
-              "projectPath": "D:\\HK1_Nam3\\Cong_nghe_Net\\ShoppingCart\\ShoppingCart.DataAccess\\ShoppingCart.DataAccess.csproj"
+            "D:\\HK1_Nam3\\Cong_nghe_Net\\ASP.NET_CORE_MVC_6.0\\ShoppingCart\\ShoppingCart.DataAccess\\ShoppingCart.DataAccess.csproj": {
+              "projectPath": "D:\\HK1_Nam3\\Cong_nghe_Net\\ASP.NET_CORE_MVC_6.0\\ShoppingCart\\ShoppingCart.DataAccess\\ShoppingCart.DataAccess.csproj"
             }
           }
         }

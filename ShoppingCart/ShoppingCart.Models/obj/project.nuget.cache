@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DmlXheeFCoCIdGJGnoleLzJBFZePyyahFaQ0+JGNvzMwjgrZ7oTjEddTRZ/Fz7r7n6bK3B5XtNRpQXFyUYn4yg==",
+  "dgSpecHash": "ROghGB7M3cD1Qyi78zIEcpB6LWxFVwcPoeZ8zVtE5dYsrrl+iqtqkN4y2km7GY1XLAExiyaOGJBUsn0VIkaf4w==",
   "success": true,
-  "projectFilePath": "D:\\HK1_Nam3\\Cong_nghe_Net\\ShoppingCart\\ShoppingCart.Models\\ShoppingCart.Models.csproj",
+  "projectFilePath": "D:\\HK1_Nam3\\Cong_nghe_Net\\ASP.NET_CORE_MVC_6.0\\ShoppingCart\\ShoppingCart.Models\\ShoppingCart.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
