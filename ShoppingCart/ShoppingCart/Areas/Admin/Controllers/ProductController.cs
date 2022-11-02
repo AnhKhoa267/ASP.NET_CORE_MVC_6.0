@@ -33,7 +33,7 @@ namespace ShoppingCart.Areas.Admin.Controllers
         }
 
         [HttpGet]
-        public IActionResult CategoryUpdate(int? id)
+        public IActionResult CreateUpdate(int? id)
         {
             ProductVM vm = new ProductVM()
             {
@@ -97,21 +97,6 @@ namespace ShoppingCart.Areas.Admin.Controllers
             }
             return RedirectToAction("Index");
         }
-
-        //[HttpGet]
-        //public IActionResult Delete (int? id)
-        //{
-        //if (id == null || id == 0) 
-        //{
-        //return NotFound();
-        //}
-        //var category = _unitofWork.Category.GetT)x => x.id == id);
-        //if (category == null)
-        //{
-        //return NotFound();
-        //}
-        //return View(category);
-        //}
 
         #region DeleteAPICALL
         [HttpDelete]
