@@ -825,3 +825,4 @@ D:\HK1_Nam3\Cong_nghe_Net\ASP.NET_CORE_MVC_6.0\ShoppingCart\ShoppingCart\obj\Deb
 D:\HK1_Nam3\Cong_nghe_Net\ASP.NET_CORE_MVC_6.0\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ShoppingCart.pdb
 D:\HK1_Nam3\Cong_nghe_Net\ASP.NET_CORE_MVC_6.0\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ShoppingCart.genruntimeconfig.cache
 D:\HK1_Nam3\Cong_nghe_Net\ASP.NET_CORE_MVC_6.0\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ref\ShoppingCart.dll
+D:\HK1_Nam3\Cong_nghe_Net\ASP.NET_CORE_MVC_6.0\ShoppingCart\ShoppingCart\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
